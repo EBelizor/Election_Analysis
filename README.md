@@ -6,16 +6,15 @@ We are helping Tom as he runs an election audit on the U.S. congressional distri
 
 ## Election-Audit Results
 
+### County Breakdown
+
+- There were 3 counties total in the for the congressional district that we are analyzing, Jefferson, Denver, and Arapahoe. 
 - The congressional election saw 369,711 votes casted.
 - Denver had a staggering 82.6% of the votes casted as the county racked in 306,055 total votes.
 
 ![](Resources/County_results.png)
 
 It is clear that Denver was the most influential county in the congressional election. 
-
-### County Breakdown
-
-- There were 3 counties total in the for the congressional district that we are analyzing, Jefferson, Denver, and Arapahoe. 
 
 ### Smaller Counties
 
