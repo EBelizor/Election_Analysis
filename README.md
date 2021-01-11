@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Election_Analysis
-
-
-=======
 # Written Analysis
  
 ## Overview of Election Audit
@@ -14,7 +9,7 @@ We are helping Tom as he runs an election audit on the U.S. congressional distri
 - The congressional election saw 369,711 votes casted.
 - Denver had a staggering 82.6% of the votes casted as the county racked in 306,055 total votes.
 
-!image[]
+![](Resources/County_results.png)
 
 It is clear that Denver was the most influential county in the congressional election. 
 
@@ -34,10 +29,13 @@ Charles Casper earned 23% of the votes, with 85,213 votes casted in his honor, e
 
 - We certified Diana DeGette as the overwhelming winner. Considering Diana won in such an overwhelming margin, with 73.8% of the total votes, which amounts to 272,892 votes.
 
+![](Resources/candidate_results.png)
+
 ## Election-Audit Summar
   
   This script has shown it's ability to be adaptable when expansion is an option. In order to handle more task we just simply need to assign new variables and run similar for loops in order to run new analysis. In our analysis here it was a simple test where we ran similar code like we did before, but used new variables and iterated through the counties rather than candidates. See the variables that we assigned to each county below. 
 
+![](Resources/Pitch.png)
 
 If more data needed to be analyzed outside of our file we would not need to deviate too far from our original script. Pythons built in functions allows us to read and write on files as we please, so an expansion of data would require us to simply read new data and adjust the variables assigned accordingly in order to write on our sheets. 
->>>>>>> fae521aa643800e2b5f3048a6ba3d849fe637987
+
