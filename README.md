@@ -2,13 +2,13 @@
  
 ## Overview of Election Audit
 
-We are helping Tom as he runs an election audit on the U.S. congressional district in Colorado. Our initial analysis used python in order to automate task in order for us to report the total votes cast, the total votes for each candidate as well as the percentage and finally we would certify the winner of the election. Our initial script was able to smoothly run through the ballot results, and certify the winner of the election. Now we are charged with running a similar analysis to find out how the counties faired in the election. 
+We are helping Tom as he runs an election audit on a U.S. congressional district in Colorado. Our initial analysis used python to automate task in order for us to report the total votes casted, the total votes and percentage of votes for each candidate, finally we were able to certify the winner of the election. Our initial script was able to smoothly run through the ballot results, and certify the winner of the election. Now we are charged with running a similar analysis to find out how other districts faired in their elections. 
 
 ## Election-Audit Results
 
 ### County Breakdown
 
-- There were 3 counties total in the for the congressional district that we are analyzing, Jefferson, Denver, and Arapahoe. 
+- 3 counties analyzed: Jefferson, Denver, and Arapahoe. 
 - The congressional election saw 369,711 votes casted.
 - Denver had a staggering 82.6% of the votes casted as the county racked in 306,055 total votes.
 
@@ -32,9 +32,9 @@ Charles Casper earned 23% of the votes, with 85,213 votes casted in his honor, e
 
 ## Election-Audit Summar
   
-  This script has shown it's ability to be adaptable when expansion is an option. In order to handle more task we just simply need to assign new variables and run similar for loops in order to run new analysis. In our analysis here it was a simple test where we ran similar code like we did before, but used new variables and iterated through the counties rather than candidates. See the variables that we assigned to each county below. 
+  This script has shown it's ability to be adaptable when expansion is the goal. In order to handle additional districts we simply need to assign new variables and run similar for loops in order to run new analysis. In our analysis here it was a simple test where we ran similar code like we did before, but used new variables and iterated through the counties rather than candidates. See the variables that we assigned to each county below. 
 
 ![](Resources/Pitch.png)
 
-If more data needed to be analyzed outside of our file we would not need to deviate too far from our original script. Pythons built in functions allows us to read and write on files as we please, so an expansion of data would require us to simply read new data and adjust the variables assigned accordingly in order to write on our sheets. 
+If more data needed to be analyzed outside of our file we would not need to deviate too far from our original script. Pythons built in functions allows us to read and write on files as we please, so an expansion of data would require us to simply read new data and adjust the variables assigned accordingly in order to run similar analysis on different districts. 
 
